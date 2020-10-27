@@ -1,7 +1,5 @@
 <?php
 
-#git test
-
 namespace sercanarga; class Telegram {
     public $api_url, $api_key;
 
